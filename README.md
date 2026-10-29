@@ -1,13 +1,13 @@
 # Praktikum - Clustering dengan K-Means
 Mata Kuliah: Pembelajaran Mesin (INF62325) Nama: Alfiah Lutfi Sabilah NIM: 2488010032
 
-Ringkasan
+## Ringkasan
 Praktikum ini membahas clustering menggunakan algoritma K-Means untuk mengelompokkan data tanpa label. Kegiatan yang dilakukan meliputi scaling, penentuan jumlah cluster menggunakan Metode Elbow, pengelompokan data dengan K-Means, evaluasi menggunakan Silhouette Score, serta interpretasi karakteristik setiap cluster.
 
-Isi Repositori
+## Isi Repositori
 PM_P9_Alfiah Lutfi Sabilah_2488010032.ipynb : notebook praktikum
 
-Temuan Utama
+## Temuan Utama
 - Metode Elbow digunakan untuk membantu menentukan jumlah cluster yang optimal berdasarkan perubahan nilai inertia.
 - Algoritma K-Means dengan K=3 digunakan untuk mengelompokkan data berdasarkan usia, pendapatan, dan skor belanja.
 - Silhouette Score digunakan untuk mengevaluasi kualitas pengelompokan. Nilai yang mendekati 1 menunjukkan cluster yang semakin terpisah dengan baik.
